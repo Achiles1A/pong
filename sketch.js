@@ -109,7 +109,7 @@ function incluiPlacar(){
   stroke(255)
     textAlign(CENTER);
     textSize(16);
-    fill(color(255,140, 0));
+    fill(color(47, 79, 79));
     rect(150, 10, 40, 20);
     fill(255);
     text(meusPontos, 170, 26);
